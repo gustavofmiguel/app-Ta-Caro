@@ -1,16 +1,20 @@
-# Aplicativo Ta caro
+# Aplicativo Ta caro - Faça melhores compras
 
-A new Flutter project.
+Projeto feito no evento Flutter Race #1 com Gabul DEV
 
-## Getting Started
+## Descrição do App
+O app veio com o objetivo de criar uma comunidade de preços<br>
+para melhor controlar os gastos,
+onde o usuário ao comprar, <br>
+ele podera monitorar o grafico e saber o quão bom esta sendo suas compras
 
-This project is a starting point for a Flutter application.
+## Começando
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto é meu primeiro contato com a tecnologia Flutter <br>
+Onde aprendi:
+- Os conceitos basicos de Dart<br>
+&nbsp; &nbsp;  funçôes classes, prints
+- Padronização e organização de projeto<br>
+&nbsp; &nbsp;  Como organizar pastas, widgets, para a facilidade do entedimento
+- Configuração<br>
+&nbsp; &nbsp; Temas, estilos, instalar packages, criar componentes personalizados
